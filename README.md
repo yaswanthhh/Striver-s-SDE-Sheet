@@ -1,6 +1,8 @@
 # Striver's SDE Sheet
 Solutions to the Striver's SDE Sheet has been provided in this repository. The solutions will be uploaded as they are completed.
 
+**Disclaimer**: The below solutions are ***for reference only***. Please try coming up with your own solutions to complete the sheet, Thank you :)).
+
 ### Day 1: Arrays
 - [Set Matrix Zeroes](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%201:%20Arrays/1.1_set_matrix_zeroes.py)
 - [Pascal's Triangle](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%201:%20Arrays/1.2_pascals_triangle.py)

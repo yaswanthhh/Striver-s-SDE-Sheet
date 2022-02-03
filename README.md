@@ -12,4 +12,5 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Stock buy and Sell](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%201:%20Arrays/1.6_stock_buy_sell.py)
 
 ### Day 2: Arrays Part II
-- [Rotate Matrix]()
+- [Rotate Matrix](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%20II/2.1_rotate_matrix.py)
+- [Merge Overlapping Subintervals]()

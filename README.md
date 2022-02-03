@@ -3,4 +3,5 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 
 ### Day 1: Arrays
 - [Set Matrix Zeroes](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%201:%20Arrays/1.1_set_matrix_zeroes.py)
-- Pascal's Triangle
+- [Pascal's Triangle](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%201:%20Arrays/1.2_pascals_triangle.py)
+- [Next Permutation]()

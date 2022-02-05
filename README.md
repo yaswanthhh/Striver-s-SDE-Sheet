@@ -16,4 +16,5 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Merge Overlapping Subintervals](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%20II/2.2_overlapping_subintervals.py)
 - [Merge Two Sorted Arrays Without Using Extra Space](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%20II/2.3_merge_sorted_arrays.py)
 - [Find the duplicate in an array of N+1 integers](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%20II/2.4_duplicate_in_array.py)
-- [Repeat and Missing Number]()
+- [Repeat and Missing Number](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%20II/2.5_repeat_and_missing.py)
+- [Inversion of Array (Pre-req: Merge Sort)]()

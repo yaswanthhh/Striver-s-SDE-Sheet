@@ -26,3 +26,7 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Majority Element (>N/3 times)](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%203:%20Arrays-Part%20III/3.4_majority_1by3.py)
 - [Grid Unique Paths](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%203:%20Arrays-Part%20III/3.5_grid_unique_paths.py)
 - [Reverse Pairs(Leetcode)](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%203:%20Arrays-Part%20III/3.6_reverse_pairs.py)
+
+### Day 4: Arrays Part IV
+- [2-Sum-Problem](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%204:%20Arrays%20Part-IV/4.1_2_sum_problem.py)
+- [4-Sum-Problem]()

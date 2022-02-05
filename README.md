@@ -20,6 +20,9 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Inversion of Array (Pre-req: Merge Sort)](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%20II/2.6_count_inversions.py)
 
 ### Day 3: Arrays Part III
-- [Search in a 2d Matrix](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%203/3.1_search_2d_matrix.py)
-- [Pow(x, n)](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%203/3.2_pow_x_y.py)
-- [Majority Element (>N/2 times)]()
+- [Search in a 2d Matrix](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%203:%20Arrays-Part%20III/3.1_search_2d_matrix.py)
+- [Pow(x, n)](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%203:%20Arrays-Part%20III/3.2_pow_x_y.py)
+- [Majority Element (>N/2 times)](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%203:%20Arrays-Part%20III/3.3_majority_nby2.py)
+- [Majority Element (>N/3 times)](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%203:%20Arrays-Part%20III/3.4_majority_1by3.py)
+- [Grid Unique Paths](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%203:%20Arrays-Part%20III/3.5_grid_unique_paths.py)
+- [Reverse Pairs(Leetcode)]()

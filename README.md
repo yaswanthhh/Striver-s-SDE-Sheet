@@ -17,4 +17,9 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Merge Two Sorted Arrays Without Using Extra Space](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%20II/2.3_merge_sorted_arrays.py)
 - [Find the duplicate in an array of N+1 integers](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%20II/2.4_duplicate_in_array.py)
 - [Repeat and Missing Number](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%20II/2.5_repeat_and_missing.py)
-- [Inversion of Array (Pre-req: Merge Sort)]()
+- [Inversion of Array (Pre-req: Merge Sort)](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%20II/2.6_count_inversions.py)
+
+### Day 3: Arrays Part III
+- [Search in a 2d Matrix](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%203/3.1_search_2d_matrix.py)
+- [Pow(x, n)](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%202:%20Arrays-Part%203/3.2_pow_x_y.py)
+- [Majority Element (>N/2 times)]()

@@ -30,4 +30,5 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 ### Day 4: Arrays Part IV
 - [2-Sum-Problem](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%204:%20Arrays%20Part-IV/4.1_2_sum_problem.py)
 - [4-Sum-Problem](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%204:%20Arrays%20Part-IV/4.2_4_sum.py)
-- [Longest Consecutive Sequence]()
+- [Longest Consecutive Sequence](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%204:%20Arrays%20Part-IV/4.3_maximum_cons_seq.py)
+- [Largest Subarray with 0 sum]()

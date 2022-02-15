@@ -36,4 +36,6 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Longest Substring without repeat](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%204:%20Arrays%20Part-IV/4.6_longest_substring.py)
 
 ### Day 5: Linked List
-- [Reverse a LinkedList]()
+- [Reverse a Linked List](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.1_rev_ll.py)
+- []()
+ 

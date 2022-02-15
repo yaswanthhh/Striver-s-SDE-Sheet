@@ -37,5 +37,6 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 
 ### Day 5: Linked List
 - [Reverse a Linked List](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.1_rev_ll.py)
+- [Middle of Linked List](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.2_middle_of_ll.py)
 - []()
  

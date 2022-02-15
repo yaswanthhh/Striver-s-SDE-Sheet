@@ -33,4 +33,7 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Longest Consecutive Sequence](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%204:%20Arrays%20Part-IV/4.3_maximum_cons_seq.py)
 - [Largest Subarray with 0 sum](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%204:%20Arrays%20Part-IV/4.4_sub_with_0sum.py)
 - [Count number of subarrays with given Xor K](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%204:%20Arrays%20Part-IV/4.5_xor.py)
-- [Longest Substring without repeat]()
+- [Longest Substring without repeat](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%204:%20Arrays%20Part-IV/4.6_longest_substring.py)
+
+### Day 5: Linked List
+- [Reverse a LinkedList]()

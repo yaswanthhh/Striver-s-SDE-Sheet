@@ -41,5 +41,8 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Merge two sorted Linked List](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.3_merge_ll.py) ([CPP Soultion also available](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.3_merge_ll.py))
 - [Remove N-th node from back of LinkedList](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.4_del_nth_from_back.py)
 - [Add two numbers as LinkedList](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.5_add_two_ll.py)
-- [Delete a given Node when a node is given]()
+- [Delete a given Node when a node is given](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.6_del_node.py)
+
+### Day 6: Linked List Part II
+- [Find intersection point of Y LinkedList]()
  

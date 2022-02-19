@@ -51,5 +51,6 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Find the starting point of the Loop of LinkedList](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%206:%20Linked%20List%20Part%20II/6.5_starting_loop.py)
 
 ### Day 7: Linked List and Arrays
-- [Rotate a LinkedList]()
+- [Rotate a LinkedList](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%207:%20Linked%20List%20and%20Arrays/7.1_rotate_ll.py)
+- [Clone a Linked List with random and next pointer]()
  

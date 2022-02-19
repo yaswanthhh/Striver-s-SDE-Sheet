@@ -45,5 +45,6 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 
 ### Day 6: Linked List Part II
 - [Find intersection point of Y LinkedList](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%206:%20Linked%20List%20Part%20II/6.1_find_intersection.py)
-- [Detect a cycle in Linked List]()
+- [Detect a cycle in Linked List](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%206:%20Linked%20List%20Part%20II/6.2_detect_cycle.py)
+- [Reverse a LinkedList in groups of size k]()
  

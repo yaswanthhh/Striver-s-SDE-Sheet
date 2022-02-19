@@ -59,5 +59,6 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Max consecutive ones](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%207:%20Linked%20List%20and%20Arrays/7.6_duplicate_1s.py)
 
 ### Day 8: Greedy Algorithm
-- [N meetings in one room]()
+- [N meetings in one room](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%208:%20Greedy%20Algorithm/8.1_n_meetings.py)
+- [Minimum number of platforms required for a railway]()
  

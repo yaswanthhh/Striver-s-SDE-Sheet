@@ -39,5 +39,6 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Reverse a Linked List](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.1_rev_ll.py)
 - [Middle of Linked List](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.2_middle_of_ll.py)
 - [Merge two sorted Linked List](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.3_merge_ll.py) ([CPP Soultion also available](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.3_merge_ll.py))
-- [Remove N-th node from back of LinkedList]()
+- [Remove N-th node from back of LinkedList](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.4_del_nth_from_back.py)
+- [Add two numbers as LinkedList]()
  

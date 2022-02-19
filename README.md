@@ -47,5 +47,6 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Find intersection point of Y LinkedList](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%206:%20Linked%20List%20Part%20II/6.1_find_intersection.py)
 - [Detect a cycle in Linked List](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%206:%20Linked%20List%20Part%20II/6.2_detect_cycle.py)
 - [Reverse a LinkedList in groups of size k](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%206:%20Linked%20List%20Part%20II/6.3_reverse_pairs.py)
-- [Check if a LinkedList is palindrome or not]()
+- [Check if a LinkedList is palindrome or not](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%206:%20Linked%20List%20Part%20II/6.4_check_palindrome.py)
+- [Find the starting point of the Loop of LinkedList]()
  

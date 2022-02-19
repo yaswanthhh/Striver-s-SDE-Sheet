@@ -56,5 +56,8 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [3 sum](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%207:%20Linked%20List%20and%20Arrays/7.3_3_sum.py)
 - [Trapping rainwater](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%207:%20Linked%20List%20and%20Arrays/7.4_trapping_rainwater.py)
 - [Remove Duplicate from Sorted array](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%207:%20Linked%20List%20and%20Arrays/7.5_remove_duplicate.py)
-- []()
+- [Max consecutive ones](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%207:%20Linked%20List%20and%20Arrays/7.6_duplicate_1s.py)
+
+### Day 8: Greedy Algorithm
+- [N meetings in one room]()
  

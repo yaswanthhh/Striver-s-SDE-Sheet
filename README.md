@@ -44,5 +44,6 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Delete a given Node when a node is given](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%205:%20Linked%20List/5.6_del_node.py)
 
 ### Day 6: Linked List Part II
-- [Find intersection point of Y LinkedList]()
+- [Find intersection point of Y LinkedList](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%206:%20Linked%20List%20Part%20II/6.1_find_intersection.py)
+- [Detect a cycle in Linked List]()
  

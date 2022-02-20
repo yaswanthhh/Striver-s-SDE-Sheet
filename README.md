@@ -63,5 +63,8 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Minimum number of platforms required for a railway](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%208:%20Greedy%20Algorithm/8.2_min_platform.py)
 - [Job sequencing Problem](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%208:%20Greedy%20Algorithm/8.3_job_seq.py)
 - [Fractional Knapsack Problem](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%208:%20Greedy%20Algorithm/8.4_fractional_knapsack.py)
-- [Greedy algorithm to find minimum number of coins]()
+- [Greedy algorithm to find minimum number of coins](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%208:%20Greedy%20Algorithm/8.5_coin_change.py)
+
+### Day 9: Recursion
+- [Subset Sums]()
  

@@ -67,5 +67,5 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 
 ### Day 9: Recursion
 - [Subset Sums](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%209:%20Recursion/9.1_subset_sums.cpp)
-- [Subset II]()
+- [Subset II](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%209:%20Recursion/9.2_subset2.cpp)
  

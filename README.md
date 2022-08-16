@@ -66,5 +66,6 @@ Solutions to the Striver's SDE Sheet has been provided in this repository. The s
 - [Greedy algorithm to find minimum number of coins](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%208:%20Greedy%20Algorithm/8.5_coin_change.py)
 
 ### Day 9: Recursion
-- [Subset Sums]()
+- [Subset Sums](https://github.com/yaswanthhh/Striver-s-SDE-Sheet/blob/main/Solutions/Day%209:%20Recursion/9.1_subset_sums.cpp)
+- [Subset II]()
  

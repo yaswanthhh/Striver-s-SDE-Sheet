@@ -1,21 +1,16 @@
-class Solution(object):
-    def setZeroes(self, matrix):
-        """
-        :type matrix: List[List[int]]
-        :rtype: None Do not return anything, modify matrix in-place instead.
-        """
-        xlen = len(matrix[0])
-        ylen = len(matrix)
-        
-        x0 = []
-        y0 = []
-        for i in range (ylen):
-            for j in range (xlen):
+   def setZeroes(self, matrix: List[List[int]]) -> None:
+        n = len(matrix)
+        m = len(matrix[0])
+
+        rows = [False] * n
+        cols = [False] * m
+        for i in range(n):
+            for j in range(m):
                 if matrix[i][j] == 0:
-                    x0.append(i) 
-                    y0.append(j)
-                    
-        for i in range (ylen):
-            for j in range (xlen):
-                if i in x0 or j in y0:
+                    rows[i] = True
+                    cols[j] = True              
+        
+        for i in range(n):
+            for j in range(m):
+                if rows[i] or cols[j]:
                     matrix[i][j] = 0
